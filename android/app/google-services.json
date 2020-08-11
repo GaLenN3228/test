@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "473433434342",
+    "firebase_url": "https://test-f38fb.firebaseio.com",
+    "project_id": "test-f38fb",
+    "storage_bucket": "test-f38fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473433434342:android:ed0f3648dd3a9c312df327",
+        "android_client_info": {
+          "package_name": "com.luxystech.chalenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473433434342-h4ef6nfhodfg42facmcafp7vk816561v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOqLaSduyE9BUmTCdvKmQM4IvfAP81ctI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473433434342-h4ef6nfhodfg42facmcafp7vk816561v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
